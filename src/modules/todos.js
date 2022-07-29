@@ -3,7 +3,7 @@ const INSERT = 'todos/INSERT'; // 새로운 todo 등록
 const TOGGLE = 'todos/TOGGLE'; // todo를 체크, 체크 해제
 const REMOVE = 'todos/REMOVE'; // todo를 제거
 
-// test
+// 깃 왜 안되냐
 
 export const changeInput = (input) => ({
   type: CHANGE_INPUT,
